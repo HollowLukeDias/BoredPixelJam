@@ -5,12 +5,14 @@ public class Menu : MonoBehaviour
 {
 
     [SerializeField] private GameObject panel;
+    [SerializeField]private bool canPause = false;
     private bool isPaused = false;
+
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            if (!isPaused)
+            if (!isPaused && canPause)
             {
                 Pause(panel);
             } else if (isPaused)

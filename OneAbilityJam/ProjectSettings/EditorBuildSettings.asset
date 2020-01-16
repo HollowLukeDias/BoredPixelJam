@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 6c0d83f906cbe104d995c06be2fa9e16
   - enabled: 1
-    path: Assets/Scenes/Scene01.unity
+    path: Assets/Scenes/CargoShip.unity
     guid: c7f63ff3b4fdfff478e1cb44fbb5a42d
   m_configObjects: {}

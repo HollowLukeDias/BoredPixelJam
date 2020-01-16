@@ -13,8 +13,17 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Fader.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SinMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unity/Space Death/Assets/Script/BackgroundScroller.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unity/Extra-Jam-3---Project/Assets/Script/Sound.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundScroller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerShip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unity/Extra-Jam-3---Project/Assets/Script/AudioManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnStraight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unity/Space Death/Assets/Script/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyShip.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sounds.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -24,9 +33,17 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/GameControl.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Fader.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Menu.cs" />
         <option value="$PROJECT_DIR$/Assets/RandomMove.cs" />
         <option value="$PROJECT_DIR$/Assets/SinMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sounds.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu.cs" />
+        <option value="$PROJECT_DIR$/../../Unity/Space Death/Assets/Script/BackgroundScroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundScroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShipMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerShip.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyShip.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnStraight.cs" />
       </list>
     </option>
   </component>
@@ -67,6 +84,7 @@
       <updated>1579053084847</updated>
       <workItem from="1579053123529" duration="2569000" />
       <workItem from="1579074614535" duration="4259000" />
+      <workItem from="1579116729613" duration="13173000" />
     </task>
     <servers />
   </component>
